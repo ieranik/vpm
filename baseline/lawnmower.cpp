@@ -924,8 +924,6 @@ void gentraj()
 
 //generate the trajectories for all voronoi regions
 void init(){
-	//codes for initialization
-
 
 	int i, j;
     T = 0;

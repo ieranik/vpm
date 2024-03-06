@@ -614,7 +614,6 @@ void inputvoronoi()
     tmpv.push_back(vors[0]);
     allvors.push_back(tmpv);
 
-    //fclose(finv);
 }
 
 
