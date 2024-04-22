@@ -1,5 +1,7 @@
 # Heterogeneous (UGV-UAV) Coordination for Persistent Monitoring using Particle Filters and Reinforcement Learning
  
+*This is an ongoing project. Full code and excution details will be released upon completion of the project. More details can be found in the [project page](https://ieranik.github.io/projects/hcrl/) and the [draft paper](https://ieranik.github.io/files/hcrl.pdf)*
+
 
 In this project, we study the multi-robot visibility-based persistent monitoring (PM) problem. Persistent monitoring is a variant of coverage problem that involves repeatedly covering a given area, e.g. patrolling, security surveillance, target searching, etc. In addition to the coverage maximization objective of the well-studied exploration problem, the PM problem also requires agents to revisit previously explored regions in order to achieve repeated monitoring of the space. More specifically, in this work, we study a novel visibility-based PM problem where a team of UGVs equipped with 360◦ visual sensors repeatedly patrols an obstructed 2D region. We call the problem visibility-based persistent monitoring (VPM) problem. 
 
